@@ -2,9 +2,10 @@
 
 ## 
 
-![alt text](<Screenshot from 2024-08-20 00-38-42.png>)
+
 
 # Prometheus Architecture
+![alt text](<Screenshot from 2024-08-20 00-38-42-1.png>)
 
 Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability. This document provides an overview of its architecture.
 
